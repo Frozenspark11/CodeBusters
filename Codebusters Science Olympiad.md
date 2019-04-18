@@ -99,7 +99,7 @@ Solving the timed question is mandatory for even a chance at placing. Although t
 
 <https://www.sciencenc.com/resources/high-school/codebusters/>: Practice tests
 
-<https://toebes.com/codebusters/>: Tool used to create codebuster tests
+<https://toebes.com/codebusters/>: Tool used to create codebuster tests, plus has a huge selection of amazing tests as well
 
 <http://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf>: Practice test
 
