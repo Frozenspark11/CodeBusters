@@ -22,7 +22,7 @@ As for materials, only a few are allowed and they are:
 
 And the main rule that you have to keep track of is the timed question. At the beginning of every test, there will be a timed aristocrat, for which you only have 10 minutes to solve. The quicker you can solve this question, the more points you are rewarded for it. The points obtained are calculated as shown:
 
-Number\: of\: points\: =\: 4\cdot (600 - seconds\:taken\:to\:solve\: cipher)
+*Number of points = 4 * (600 - seconds taken to solve cipher)*
 
 Getting this timed question down is key, and results in a ludicrous amount of free points.
 
